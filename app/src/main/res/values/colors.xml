@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="page_background">#F5F7FA</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="text_primary">#1D2733</color>
+    <color name="text_secondary">#687484</color>
+    <color name="brand_red">#C7242F</color>
+    <color name="brand_green">#2F713B</color>
+    <color name="brand_orange">#A85718</color>
+    <color name="menu_background">#111111</color>
+    <color name="menu_header">#6B6B6B</color>
+    <color name="calculator_display">#C7C5A1</color>
+</resources>

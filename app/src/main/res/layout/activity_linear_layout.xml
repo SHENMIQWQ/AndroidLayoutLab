@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/menu_background"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="One,One"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="One,Two"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="One,Three"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="One,Four"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Two,One"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Two,Two"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Two,Three"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Two,Four"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Three,One"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Three,Two"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Three,Three"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Three,Four"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Four,One"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Four,Two"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Four,Three"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_grid_cell"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Four,Four"
+            android:textColor="#7D838D"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>
